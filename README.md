@@ -1,4 +1,4 @@
-- Building and vibe coding
+- just keep building, just keep building...
 
 <!---
 mayincodes/mayincodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
